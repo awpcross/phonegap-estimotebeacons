@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
-	id="pl.makingwaves.estimotebeacons"
+	id="ch.cross-systems.estimotebeacons"
 	version="0.7.1">
 
 	<name>EstimoteBeacons</name>
-	<description>Cordova/PhoneGap plugin for Estimote beacons.</description>
+	<description>Cross fork of Cordova/PhoneGap plugin for Estimote beacons.</description>
 	<license>MIT</license>
 	<keywords>Estimote, Beacons</keywords>
 
